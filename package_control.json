@@ -11,7 +11,7 @@
 				"*": [
 					{
 						"version": "1.0.1",
-						"url": "https://nodeload.github.com/freewizard/SublimeFormatSQL/zipball/master"
+						"url": "https://codeload.github.com/freewizard/SublimeFormatSQL/zip/master"
 					}
 				]
 			}
@@ -26,7 +26,7 @@
 				"*": [
 					{
 						"version": "1.0.3",
-						"url": "https://nodeload.github.com/freewizard/SublimeGotoFolder/zipball/master"
+						"url": "https://codeload.github.com/freewizard/SublimeGotoFolder/zip/master"
 					}
 				]
 			}
@@ -41,7 +41,7 @@
 				"*": [
 					{
 						"version": "1.0.0",
-						"url": "https://nodeload.github.com/freewizard/SublimeGotoTab/zipball/master"
+						"url": "https://codeload.github.com/freewizard/SublimeGotoTab/zip/master"
 					}
 				]
 			}
